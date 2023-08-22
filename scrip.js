@@ -53,9 +53,9 @@ do{
             alert ('La opcion elegida no es valida');
             
         }
-    return false; 
+    
  
-}while(salir == true)
+}while(salir == false)
     
    /*switch(modoPago){
     case '1':
